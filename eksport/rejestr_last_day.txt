@@ -1,0 +1,13 @@
+1, Synchronizacja nieudana, Siemens 7SJ82, 1, 2024-04-28 18:12:03
+2, Synchronizacja nieudana, Siemens 7SJ82, 1, 2024-04-28 18:12:08
+3, Blokada SPZ, Siemens 7SJ82, 1, 2024-04-28 18:12:10
+4, Blokada 87L, ABB REL670, 0, 2024-04-28 18:12:21
+5, Blokada 87L, GE L90, 0, 2024-04-28 18:12:27
+6, Synchronizacja nieudana, Siemens 7SJ82, 0, 2024-04-28 18:12:32
+7, Blokada SPZ, Siemens 7SJ82, 0, 2024-04-28 18:12:36
+8, OW1 L1, ABB REL670, 0, 2024-04-29 14:45:57
+9, OW1 L1, ABB REL670, 1, 2024-04-29 14:46:00
+10, SSIN - Pobudzenie, GE L90, 1, 2024-04-29 14:46:04
+11, SSIN - Pobudzenie, GE L90, 0, 2024-04-29 14:46:06
+12, Synchronizacja nieudana, Siemens 7SJ82, 1, 2024-04-29 14:46:09
+13, Synchronizacja nieudana, Siemens 7SJ82, 0, 2024-04-29 14:46:13

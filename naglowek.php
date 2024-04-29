@@ -82,7 +82,9 @@
             text-decoration: none;
             color: black;
         }
-
+        .linkb {
+            color: black;
+        }
 
     </style>
 </head>
