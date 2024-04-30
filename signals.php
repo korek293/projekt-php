@@ -34,7 +34,7 @@ try {
             $max_id = $wynik['max_id'];
             $new_id = $max_id + 1;
 
-            $sql_register = "INSERT INTO register (id, sygnal_name, device_name, value, time) VALUES (:id, :sygnal_name, :device_name, :value, DATETIME('now'))";
+            $sql_register = "INSERT INTO register (id, sygnal_name, device_name, value, time) VALUES (:id, :sygnal_name, :device_name, :value, DATETIME('now', '+2 hours'))";
             $stmt_register = $conn->prepare($sql_register);
             $stmt_register->bindParam(':id', $new_id, PDO::PARAM_INT);
             $stmt_register->bindParam(':sygnal_name', $signal_info['signal'], PDO::PARAM_STR);
